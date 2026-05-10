@@ -1,0 +1,10 @@
+ # libraries you have to use 
+
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+lightgbm
+pickle
